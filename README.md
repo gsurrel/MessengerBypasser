@@ -8,5 +8,8 @@ Teeny-tiny Android app for bypassing the requirement for Messenger. In certain c
 
 ## Changelog
 
+* _1.0.1_
+    * Catching *compose* intent when creating a new message
+
 * _1.0.0_
     * Initial release

@@ -24,6 +24,10 @@
 				<data
 					android:host="user"
 					android:scheme="intent"/>
+				<data
+					android:host="compose"
+					android:scheme="intent"/>
+
 			</intent-filter>
 		</activity>
 	</application>
