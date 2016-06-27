@@ -1,3 +1,4 @@
 <resources>
 	<string name="app_name">Messenger bypasser</string>
+	<string name="upload_file_choose">Choose file to upload</string>
 </resources>
