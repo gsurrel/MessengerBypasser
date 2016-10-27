@@ -1,4 +1,6 @@
-# Messenger bypasser
+# ~~Messenger bypasser~~
+
+**THIS APP IS DISCONTINUATED AS [SlimSocial for Facebook](https://f-droid.org/repository/browse/?fdfilter=SlimSOcial&fdid=it.rignanese.leo.slimfacebook) MAKES IT IRRELEVANT**
 
 Since version 2, this app is a fork of Tinfoil for Facebook which handles correctly the Messenger part of the website.
 
